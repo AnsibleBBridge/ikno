@@ -1,0 +1,21 @@
+name: ikno
+description: Workday reconstruction CLI — contributed, not owned by Bryan
+status: shared
+phase: building
+audience: personal
+domain:
+- go
+- cli
+- pkm
+last_active: '2026-04-21'
+milestone: ''
+what_works:
+- recap command (today, thisweek, custom range)
+- 6 output styles including stats with ASCII bar charts
+- Git, Obsidian, Claude Code session sources
+- Author aliases and timezone config
+- Nix flake packaging
+what_fails: []
+exploring:
+- Token usage optimization for AI generation
+blockers: []
